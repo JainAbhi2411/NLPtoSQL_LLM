@@ -1,0 +1,1 @@
+Just Write your SQL query in your own language,and sit back,my solution converted your NLP query into proper SQL query and also run for you and return the result, you can easliy analyze your data without having any skill of SQL.
